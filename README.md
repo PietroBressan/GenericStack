@@ -1,2 +1,2 @@
 # GenericStack
-Implementazione C++ di uno stack generico
+Implementazione C++ di uno stack generico per progetto universitario.
